@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parth-Parmar1
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning AI Foundations
+- 👀 I’m interested in JAVA,Python 
+- 🌱 I’m daily improving my programming knowledge
 - 📫 How to reach me pprmr145@gmail.com
 
 <!---
